@@ -8,7 +8,7 @@ method behind the private `financial-advisor` project, rewritten from scratch.
 
 | Path | What it is |
 |------|------------|
-| `finance-coach/SKILL.md` | The skill: interview, rules, priorities, status file |
+| `finance-coach/SKILL.md` | The skill: ten-question interview, rules, priorities, financial-status.md |
 | `finance-coach/references/` | Status template, military/federal module, investing primer |
 | `SETUP.md` | One-page install guide for non-technical users |
 | `dist/finance-coach.zip` | The upload file (built, not committed) |

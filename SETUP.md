@@ -33,12 +33,12 @@ know" is a fine answer.
 
 ## Every time after that
 
-At the end of a session, Claude gives you a **status file**. **Download and
+At the end of a session, Claude gives you a file called **financial-status.md**. **Download and
 keep it.** Next time, upload it at the start of the chat and say:
 
-> Here's my status file - let's pick up where we left off.
+> Here's my financial-status.md - let's pick up where we left off.
 
-Claude doesn't remember past chats on its own. The status file is its memory.
+Claude doesn't remember past chats on its own. That file is its memory.
 
 ## Keep yourself safe
 

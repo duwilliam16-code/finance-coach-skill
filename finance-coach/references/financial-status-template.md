@@ -1,13 +1,14 @@
-# Status file template
+# financial-status.md template
 
-Give the person their status file in this layout. Fill in only what you know;
+Give the person their `financial-status.md` in this layout, always under that
+exact file name. Fill in only what you know;
 write "unknown" rather than guessing. Numbers on items never change once
 assigned, so they can refer to "item 4" across sessions.
 
 ---
 
 ```markdown
-# My Money Status
+# My Financial Status
 
 Last updated: YYYY-MM-DD
 Educational notes from an AI coach, not professional financial advice.
@@ -16,6 +17,22 @@ Educational notes from an AI coach, not professional financial advice.
 - People: ...
 - State: ...
 - Military / federal: yes / no (which)
+
+## Snapshot by area
+One line per interview area. Level reached: basic / intermediate / advanced / skipped.
+
+| Area | Where things stand | Level reached |
+|------|--------------------|---------------|
+| Savings | | |
+| Budget | | |
+| Expense tracking | | |
+| Credit score | | |
+| Credit cards | | |
+| Retirement | | |
+| Taxes | | |
+| Investments | | |
+| Life planning | | |
+| Business accounts | | |
 
 ## To do (most important first)
 
