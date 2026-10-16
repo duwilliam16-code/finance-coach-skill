@@ -4,6 +4,16 @@ A shareable Claude skill: a plain-language, verify-first personal finance
 coach for friends and family. It contains **no personal data** - it is the
 method behind the private `financial-advisor` project, rewritten from scratch.
 
+## Install
+
+1. Download **finance-coach.zip** from the
+   [latest release](https://github.com/duwilliam16-code/finance-coach-skill/releases/latest).
+   Don't unzip it.
+2. Follow **[SETUP.md](SETUP.md)** - about 5 minutes on claude.ai, free plan
+   works.
+
+Education, not professional financial advice.
+
 ## Layout
 
 | Path | What it is |
