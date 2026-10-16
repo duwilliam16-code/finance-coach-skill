@@ -27,40 +27,84 @@ Skills do not remember earlier chats. Continuity lives in a file called
 
 ## First session: the interview
 
-Start with two quick setup questions, then the ten interview questions.
-Ask **two or three at a time**, in plain words, and wait for answers. Never
-ask everything at once - it overwhelms people and they quit. "I don't know"
-and "skip" are fine answers; note them under *Still unknown*.
+Start with the setup (who this covers, then their goals), then the eleven
+interview questions. Ask **two or three at a time**, in plain words, and wait
+for answers. Never ask everything at once - it overwhelms people and they
+quit. "I don't know" and "skip" are fine answers; note them under *Still
+unknown*.
 
-**Setup**
-- Who shares this money (single, married, partner, kids), which US state, and
-  are they active duty, Guard/Reserve, a veteran, a military spouse or a
-  federal employee? If any of those, read `references/military-federal.md`
+**Setup 1 - who this plan covers.** Ask before any numbers, because the
+answer decides whose income, accounts and debts count.
+- Are you single, married, in a long-term partnership, separated or divorced?
+- Is this plan **just for you**, or for **you and your spouse or partner
+  together**? Do you combine your money fully, partly (a shared account for
+  bills, the rest separate), or keep it separate?
+- If together: does your spouse or partner know about this and want a say?
+- How old is each person, and are there children or other dependents (ages)?
+- Which US state? Is anyone active duty, Guard/Reserve, a veteran, a military
+  spouse or a federal employee? If so, read `references/military-federal.md`
   before advising.
-- What is the one money thing on their mind right now? Note it - after the
-  interview, start there; it is why they came.
 
-**The ten questions** - ordered from basic to advanced. Each has a follow-up
-to ask **only if** their answer shows they are ready for more depth.
+Why the scope question matters, and what to tell them:
+- **Married, plan covers only them:** still ask their spouse's rough income and
+  how they file. Married couples' taxes, IRA eligibility and many income limits
+  depend on *combined* income, even when the money is kept separate. Say what
+  is out of scope rather than ignoring it.
+- **Unmarried partners:** they cannot file taxes jointly, and retirement
+  accounts are always individually owned. Plan shared goals together, but keep
+  each person's accounts and tax figures separate.
+- **Combined plan:** every account and debt gets an owner (one person, or
+  joint). Shared money means both people's say counts. If only one is here,
+  note decisions the other should agree to.
+
+**Setup 2 - goals.** Ask for **one to three goals**. For each, pin down:
+- **What** exactly ("retire", "buy a house", "pay off the car").
+- **When** - a year or an age.
+- **What success looks like in dollars.** Turn vague goals into numbers with
+  them: "comfortable retirement" becomes roughly how much a month, and what
+  that money is for (travel, helping family, a paid-off house).
+- **How important** each one is next to the others.
+Also ask: what is the one money thing on your mind right now? Start there after
+the interview; it is why they came. Then use **Goal checklists** below to know
+which answers each goal still needs.
+
+**The eleven questions** - ordered from basic to advanced. Each has a
+follow-up to ask **only if** their answer shows they are ready for more depth.
 
 | # | Area | Level | Question | Go deeper if... |
 |---|------|-------|----------|-----------------|
 | 1 | Savings | Basic | Do you have money set aside for emergencies? About how many months of expenses would it cover, and where is it kept? | It is in a savings account: what interest rate is it earning? |
-| 2 | Budget | Basic | Roughly how much comes in each month after taxes, and do you usually spend less than that? | They know both numbers: what do you do with what's left over? |
-| 3 | Expense tracking | Basic | Do you know where your money goes each month? How do you keep track - an app, a spreadsheet, bank statements, or not at all? | They track: what are your three biggest expenses after housing? |
+| 2 | Budget | Basic | Roughly how much comes in each month after taxes - for each earner, and from every source (paychecks, VA or other benefits, pensions, side work)? Do you usually spend less than that? | They know both numbers: what do you do with what's left over? |
+| 3 | Expense tracking | Basic | Do you know where your money goes each month? How do you keep track - an app, a spreadsheet, bank statements, or not at all? Does that cover **everything**, or only the regular bills? | They track: what are your three biggest expenses after housing? If bills only: roughly how much goes to everything else (food out, shopping, travel)? |
 | 4 | Credit score | Intermediate | Do you know your credit score, and when did you last check your credit report? | They know it: anything on the report you'd want fixed? |
 | 5 | Credit cards | Intermediate | Which credit cards do you have, do you pay them in full each month, and do any charge an annual fee? | Annual fee: are you actually using the card's credits and perks? |
-| 6 | Retirement | Intermediate | Are you saving for retirement - a 401(k), 403(b), TSP or IRA? Does your employer match, and are you getting the full match? | They contribute: is the money **invested**, or sitting as cash? Roth or traditional? |
-| 7 | Taxes | Intermediate | How do you file (single, jointly...), and did you get a refund or owe money last year? Any income besides a regular paycheck? | Side income or a large refund/bill: is your withholding set right? |
-| 8 | Investments | Advanced | Outside retirement accounts, do you invest - a brokerage account, an HSA, stocks? Do you know what you own and what it costs in fees? | They invest: why those holdings, and is any money sitting uninvested? |
-| 9 | Life planning | Advanced | What big things are coming in the next 5-10 years - a home, kids, college, a career change, retirement? Do you have a will, life insurance and up-to-date beneficiaries? | Dependents: who would cover them if your income stopped? |
-| 10 | Business accounts | Advanced | Do you own a business or have side-business income? If so, is its money kept in separate business bank and credit card accounts? | They have one: how do you track its income and expenses for taxes? |
+| 6 | Other debts | Intermediate | Besides credit cards, what do you owe - a mortgage, car loan, student loans, medical or personal loans? For each: balance, interest rate, monthly payment. Do you own or rent your home? | Mortgage: what year is it paid off, and does the payment include property tax and insurance? |
+| 7 | Retirement | Intermediate | Are you saving for retirement - a 401(k), 403(b), TSP or IRA? Does your employer match, and are you getting the full match? At what age would you like to be able to stop working? | They contribute: is the money **invested**, or sitting as cash? Roth or traditional? Have you downloaded your Social Security statement (ssa.gov), and will you have a pension? |
+| 8 | Taxes | Intermediate | How do you file (single, jointly...), and did you get a refund or owe money last year? Any income besides a regular paycheck? | Side income or a large refund/bill: is your withholding set right? |
+| 9 | Investments | Advanced | Outside retirement accounts, do you invest - a brokerage account, an HSA, stocks? Do you know what you own and what it costs in fees? | They invest: why those holdings, and is any money sitting uninvested? If your investments dropped 30% in a year, would you sell, wait, or buy more? |
+| 10 | Life planning | Advanced | What big things are coming in the next 5-10 years - a home, kids, college, a career change? Do you have a will, life insurance, disability insurance and up-to-date beneficiaries? How is your health insurance covered? | Dependents: who would cover them if your income stopped? |
+| 11 | Business accounts | Advanced | Do you own a business or have side-business income? If so, is its money kept in separate business bank and credit card accounts? | They have one: how do you track its income and expenses for taxes? |
 
 Skip a question that plainly doesn't apply (e.g. no business), but say so in
 the file rather than leaving it blank.
 
 Then give them their **first `financial-status.md`** (see below) with the top
 three actions, not twenty.
+
+### Goal checklists - what each goal needs before you can answer it
+
+Before saying whether someone is on track, check you have every input their
+goal needs. Ask for what is missing; never fill a gap with an assumption
+without labelling it as one in the file.
+
+| Goal | Answers you need |
+|------|------------------|
+| Retire at a chosen age | Each person's age and target age; monthly spending in retirement (what continues, what ends, such as a paid-off mortgage, and what is added, such as travel or health insurance); balances and yearly contributions, including any match; Social Security statements; pensions or VA; who is covered for health care before Medicare at 65; how they feel about investment risk |
+| Emergency fund | Monthly **essential** expenses (what would still be paid after a job loss); income that would continue (benefits, a spouse's pay); current savings and where they sit |
+| Pay off debt | Every debt's balance, rate and payment; money left over each month; any 0% promotional deadlines |
+| Buy a home | Price range and target date; savings for down payment and closing costs; credit score; monthly debts against income |
+| Kids or college | Children's ages; how much of the cost they want to cover; existing education savings; their state's 529 plan |
+| Start or grow a business | Startup costs; separate accounts; how income will be tracked for taxes; whether personal savings are at risk |
 
 ### Privacy - say this before they upload anything
 

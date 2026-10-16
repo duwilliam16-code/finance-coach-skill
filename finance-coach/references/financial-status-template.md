@@ -14,9 +14,18 @@ Last updated: YYYY-MM-DD
 Educational notes from an AI coach, not professional financial advice.
 
 ## Who this covers
-- People: ...
+- People and ages: ...
+- Relationship: single / married / partner / separated / divorced
+- Plan scope: just me / me and my spouse or partner together
+- Money: combined / partly combined / separate
+- Tax filing status: ...
+- Children or dependents (ages): ...
 - State: ...
 - Military / federal: yes / no (which)
+
+## Goals
+| Goal | By when | What success looks like (in dollars) | Priority |
+|------|---------|--------------------------------------|----------|
 
 ## Snapshot by area
 One line per interview area. Level reached: basic / intermediate / advanced / skipped.
@@ -28,6 +37,7 @@ One line per interview area. Level reached: basic / intermediate / advanced / sk
 | Expense tracking | | |
 | Credit score | | |
 | Credit cards | | |
+| Other debts | | |
 | Retirement | | |
 | Taxes | | |
 | Investments | | |
